@@ -30,7 +30,7 @@
 In this lesson, we'll set up some of the tools you'll need for interacting with
 a database using SQL. There is an example database included in this lesson,
 `chinook.db`.
-[Fork and clone this lesson](https://github.com/learn-co-curriculum/phase-3-sql-setting-up-sqlite/fork)
+[Fork and clone this lesson](https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite/fork)
 so you can follow along.
 
 The `chinook.db` database is provided by SQLite as a way of demonstrating some
