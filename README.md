@@ -69,6 +69,10 @@ of your Flatiron environment setup. Install SQLite with:
 $ brew install sqlite
 ```
 
+> **Note**: We use Homebrew here in place of pip because pip is used to manage
+> _Python_ libraries. SQLite can be accessed through a Python module that we
+> will explore later in this module, but it is not a Python library itself.
+
 #### OSX: Install From Binary
 
 If Homebrew isn't working out for you, you can download one of the pre-compiled
