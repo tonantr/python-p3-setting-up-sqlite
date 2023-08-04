@@ -281,7 +281,7 @@ You can even run SQL code directly in DB Browser!
 
 You now have three tools at your disposal for interacting with a SQLite database:
 
-- The `sqlite3` command line interface (CLI) tool
+- The `sqlite3` command line interface (CLI) tool.
   - **Pros**: easy to run quick commands from the terminal
   - **Cons**: harder to memorize the syntax, and no graphical representation of
     the data
